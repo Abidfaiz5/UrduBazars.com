@@ -1,0 +1,7 @@
+{
+  "name": "Urdu Bazars",
+  "description": "All-in-one Book Shop Management, POS, Inventory, E-Commerce Bookstore & Remote Owner Dashboard with unified real-time stock synchronization.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
